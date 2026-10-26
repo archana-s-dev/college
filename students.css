@@ -1,0 +1,38 @@
+students {
+    display: block;
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+student {
+    display: block;
+    background-color: white;
+    border: 2px solid skyblue;
+    border-radius: 12px;
+    margin: 20px auto;
+    padding: 15px 20px;
+    width: 500px;
+    box-shadow: 0 0 8px gray;
+}
+
+USN, Name, College, Programme, YearOfJoining, Email {
+    display: block;
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+Name {
+    font-size: 20px;
+    font-weight: bold;
+    color: darkblue;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+USN::before { content: "USN: "; font-weight: bold; }
+College::before { content: "College: "; font-weight: bold; }
+Programme::before { content: "Programme: "; font-weight: bold; }
+YearOfJoining::before { content: "Year of Joining: "; font-weight: bold; }
+Email::before { content: "Email: "; font-weight: bold; }
