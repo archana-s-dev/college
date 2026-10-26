@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="students.css"?>
+<students>
+    <student>
+        <USN>1BI21CS001</USN>
+        <Name>Archana S</Name>
+        <College>BIT - Bangalore Institute of Technology</College>
+        <Programme>B.E. Computer Science</Programme>
+        <YearOfJoining>2021</YearOfJoining>
+        <Email>archana.cs@bit.edu.in</Email>
+    </student>
+
+    <student>
+        <USN>1BI21CS002</USN>
+        <Name>Rahul Kumar</Name>
+        <College>BMS College of Engineering</College>
+        <Programme>B.E. Information Science</Programme>
+        <YearOfJoining>2022</YearOfJoining>
+        <Email>rahul.is@bmsce.ac.in</Email>
+    </student>
+
+    <student>
+        <USN>1BI21EC015</USN>
+        <Name>Priya Sharma</Name>
+        <College>R V College of Engineering</College>
+        <Programme>B.E. Electronics & Communication</Programme>
+        <YearOfJoining>2021</YearOfJoining>
+        <Email>priya.ec@rvce.edu.in</Email>
+    </student>
+</students>
