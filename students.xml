@@ -4,7 +4,7 @@
     <student>
         <USN>1BI21CS001</USN>
         <Name>Archana S</Name>
-        <College>BIT - Bangalore Institute of Technology</College>
+        <College>BMSIT - BMS Institute of Technology &amp; Management</College>
         <Programme>B.E. Computer Science</Programme>
         <YearOfJoining>2021</YearOfJoining>
         <Email>archana.cs@bit.edu.in</Email>
@@ -23,7 +23,7 @@
         <USN>1BI21EC015</USN>
         <Name>Priya Sharma</Name>
         <College>R V College of Engineering</College>
-        <Programme>B.E. Electronics & Communication</Programme>
+        <Programme>B.E. Electronics &amp; Communication</Programme>
         <YearOfJoining>2021</YearOfJoining>
         <Email>priya.ec@rvce.edu.in</Email>
     </student>
